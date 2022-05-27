@@ -1,2 +1,2 @@
 # python-academi
-Akademide yapacağım projeler burada bulunacaktır.
+Akademide boyunca yapacağım alıştırmalar ve projeler burada bulunacaktır.
